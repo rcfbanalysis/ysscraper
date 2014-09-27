@@ -1,0 +1,4 @@
+{
+    "names": "http://sports.yahoo.com/ncaa/football/teams?type=division&division={division}",
+    "scores": "https://sports.yahoo.com/college-football/scoreboard/?conf={conf}&week={week}"
+}
